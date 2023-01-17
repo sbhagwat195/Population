@@ -6,8 +6,8 @@ import java.util.ArrayList;
  *
  *	Requires FileUtils and Prompt classes.
  *
- *	@author	
- *	@since	
+ *	@author	Shashi Bhagwat
+ *	@since	16 January 2023
  */
 public class Population {
 	
