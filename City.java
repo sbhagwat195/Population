@@ -2,8 +2,8 @@
  *	City data - the city name, state name, location designation,
  *				and population est. 2017
  *
- *	@author	
- *	@since	
+ *	@author Shashi Bhagwat	
+ *	@since	16 January 2023
  */
 public class City implements Comparable<City> {
 	
